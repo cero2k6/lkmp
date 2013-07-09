@@ -11,7 +11,9 @@
 #obj-m += procfs3.o
 #obj-m += procfs4.o
 #obj-m += syscall.o
-obj-m += sleep.o
+#obj-m += sleep.o
+#obj-m += sched.o
+#obj-m += intrpt.o
 
 
 
